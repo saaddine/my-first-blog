@@ -17,7 +17,7 @@
       <excludeFolder url="file://$MODULE_DIR$/mypython" />
       <excludeFolder url="file://$MODULE_DIR$/myvenv" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="Python 3.10" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Django Lib" level="project" />
   </component>
